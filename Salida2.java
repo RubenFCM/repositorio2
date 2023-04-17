@@ -5,5 +5,6 @@ public class Main {
         Salida s1 = new Salida();
         s1.escribir();
         System.out.println("Salida2");
+        //Edicion desde github
     }
 }
